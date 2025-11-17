@@ -5,19 +5,23 @@ Finoro is a comprehensive analytics platform for analyzing UPI digital payment t
 ## 📸 Platform Screenshots
 
 ### Main Dashboard
-![Finoro Dashboard](./screenshots/dashboard.png)
+<img width="1899" height="863" alt="Screenshot 2025-11-16 175903" src="https://github.com/user-attachments/assets/61716f20-e0c6-40fe-ab23-48960914a935" />
+
 *Interactive dashboard showing transaction analytics and trends*
 
 ### Geographic Analysis
-![Geographic View](./screenshots/geographic-view.png)
+<img width="1886" height="855" alt="Screenshot 2025-11-16 180746" src="https://github.com/user-attachments/assets/5609f0e2-6d92-45f0-ab29-e2e53460b5ba" />
+
 *State-wise distribution of UPI transactions*
 
 ### AI Chat Assistant
-![AI Chat](./screenshots/ai-chat.png)
+<img width="1895" height="858" alt="Screenshot 2025-11-16 200150" src="https://github.com/user-attachments/assets/81ecefd5-308d-4834-98d6-f248297845cd" />
+
 *AI-powered insights and analysis*
 
 ### Power BI Dashboard
-![Power BI Dashboard](./screenshots/powerbi-dashboard.png)
+<img width="1120" height="628" alt="Powerbi" src="https://github.com/user-attachments/assets/37efa7ba-1c4c-4548-b103-de2f15717651" />
+
 *Advanced analytics and reporting in Power BI*
 
 ## ✨ Features
@@ -240,10 +244,13 @@ This project is licensed under the MIT License.
 ## 👥 Team
 
 Developed as part of the Advanced Data Structures (ADS) course project.
+And Developed By Moksh   
 
 ## 📧 Contact
 
 For queries or support, please reach out through the GitHub repository issues section.
+Linkedin 
+https://www.linkedin.com/in/moksh-k-6ab504231/
 
 ---
 
